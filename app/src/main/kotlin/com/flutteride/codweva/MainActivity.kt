@@ -1,4 +1,4 @@
-يقفpackage com.flutteride.codweva
+package com.flutteride.codweva
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
